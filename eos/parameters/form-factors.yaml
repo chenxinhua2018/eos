@@ -994,57 +994,57 @@
 # Use (B.6) to replace A_12(0), and T_1(0) = T_2(0) to
 # replace T_2(0).
 "B->K^*::alpha^A0_0@BSZ2015" :
-    central: +0.35
-    min:     +0.32
-    max:     +0.37
+    central: +0.369
+    min:     +0.320
+    max:     +0.370
     comments: ""
 "B->K^*::alpha^A0_1@BSZ2015" :
-    central: -1.21
-    min:     -1.29
-    max:     -1.13
+    central: -1.366
+    min:     -1.290
+    max:     -1.130
     comments: ""
 "B->K^*::alpha^A0_2@BSZ2015" :
-    central: +0.77
-    min:     +0.29
-    max:     +1.22
+    central: +0.128
+    min:     +0.290
+    max:     +1.220
     comments: ""
 "B->K^*::alpha^A1_0@BSZ2015" :
-    central: +0.2625
+    central: +0.267
     min:     +0.2475
     max:     +0.2775
     comments: ""
 "B->K^*::alpha^A1_1@BSZ2015" :
-    central: +0.07
+    central: +0.392
     min:     -0.01
     max:     +0.13
     comments: ""
 "B->K^*::alpha^A1_2@BSZ2015" :
-    central: +0.045
+    central: +1.189
     min:     -0.105
     max:     +0.165
     comments: ""
 "B->K^*::alpha^A12_1@BSZ2015" :
-    central: +0.53
+    central: +0.534
     min:     +0.39
     max:     +0.63
     comments: ""
 "B->K^*::alpha^A12_2@BSZ2015" :
-    central: +0.315
+    central: +0.483
     min:     -0.075
     max:     +0.645
     comments: ""
 "B->K^*::alpha^V_0@BSZ2015" :
-    central: +0.3475
+    central: +0.376
     min:     +0.3225
     max:     +0.3625
     comments: ""
 "B->K^*::alpha^V_1@BSZ2015" :
-    central: -1.19
+    central: -1.166
     min:     -1.27
     max:     -1.11
     comments: ""
 "B->K^*::alpha^V_2@BSZ2015" :
-    central: +1.545
+    central: +2.424
     min:     +1.215
     max:     +1.875
     comments: ""
@@ -1054,44 +1054,44 @@
     max:     +0.3275
     comments: ""
 "B->K^*::alpha^T1_1@BSZ2015" :
-    central: -1.07
+    central: -1.009
     min:     -1.15
     max:     -0.99
     comments: ""
 "B->K^*::alpha^T1_2@BSZ2015" :
-    central: +1.395
+    central: +1.527
     min:     +1.095
     max:     +1.695
     comments: ""
 "B->K^*::alpha^T2_1@BSZ2015" :
-    central: +0.33
+    central: +0.497
     min:     +0.23
     max:     +0.41
     comments: ""
 "B->K^*::alpha^T2_2@BSZ2015" :
-    central: +0.255
+    central: +1.614
     min:     +0.015
     max:     +0.465
     comments: ""
 "B->K^*::alpha^T23_0@BSZ2015" :
-    central: +0.6675
+    central: +0.667
     min:     +0.6225
     max:     +0.7025
     comments: ""
 "B->K^*::alpha^T23_1@BSZ2015" :
-    central: +0.93
+    central: +1.318
     min:     +0.71
     max:     +1.21
     comments: ""
 "B->K^*::alpha^T23_2@BSZ2015" :
-    central: -0.15
+    central: -3.823
     min:     -0.855
     max:     +0.705
     comments: ""
 
 # B LCDA parameters
 "lambda_B_p" :
-    central: +0.485
+    central: +0.460
     min:     +0.370
     max:     +0.600
     comments: " // GeV, cf. [BHvD2010], Table I"
@@ -1158,6 +1158,44 @@
     min:     +0.168
     max:     +0.178
     comments: " // GeV @2 Gev, 0.185 +/-0.005 GeV, cf. [BHvD2010], Table I"
+
+
+# Added by Marcin:
+"K^*::a_1_para@1GeV" :
+    central: +0.06
+    min:     +0.00
+    max:     +0.10
+    comments: ""
+"K^*::a_2_para@1GeV" :
+    central: +0.16
+    min:     +0.07
+    max:     +0.23
+    comments: ""
+"K^*::f_para" :
+    central: +0.204
+    min:     +0.197
+    max:     +0.211
+    comments: ""
+"K^*::a_1_perp@1GeV" :
+    central: +0.04
+    min:     +0.01
+    max:     +0.07
+    comments: ""
+"K^*::a_2_perp@1GeV" :
+    central: +0.10
+    min:     +0.02
+    max:     +0.18
+    comments: ""
+"K^*::f_perp" :
+    central: +0.159
+    min:     +0.153
+    max:     +0.165
+    comments: ""
+
+
+
+
+
 
 # parameters for LCSR calculation of B->K^* hadronic matrix elements, cf. [KMO2006] and [KMPW2010].
 "B->K^*::s_0@LCSR" :

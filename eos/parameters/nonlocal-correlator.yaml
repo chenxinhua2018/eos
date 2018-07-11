@@ -1,0 +1,406 @@
+# parameters for non-local corrleator
+"B->K^*ccbar::mu_f" :
+    central: +3.0
+    min:     +1.5
+    max:     +6.0
+    comments: ""
+"B->K^*ll::Re{h_0^0}@CFFMPSV2015" :
+    central: -5.18e-4
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_0^0}@CFFMPSV2015" :
+    central: -2.37e-4
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_0^0}@CFFMPSV2015" :
+    central: +2.29e-4
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_0^1}@CFFMPSV2015" :
+    central: +0.22e-4
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_0^2}@CFFMPSV2015" :
+    central: +2.74e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_0^2}@CFFMPSV2015" :
+    central: -0.55e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_p^0}@CFFMPSV2015" :
+    central: -7.86e-6
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_p^0}@CFFMPSV2015" :
+    central: +0.79e-6
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_p^1}@CFFMPSV2015" :
+    central: +2.90e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_p^1}@CFFMPSV2015" :
+    central: -2.45e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_p^2}@CFFMPSV2015" :
+    central: -1.31e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_p^2}@CFFMPSV2015" :
+    central: -0.49e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_m^0}@CFFMPSV2015" :
+    central: -5.39e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_m^0}@CFFMPSV2015" :
+    central: -0.31e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_m^1}@CFFMPSV2015" :
+    central: +5.20e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_m^1}@CFFMPSV2015" :
+    central: +0.00e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Re{h_m^2}@CFFMPSV2015" :
+    central: +2.49e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Im{h_m^2}@CFFMPSV2015" :
+    central: +0.22e-5
+    min:     -20.0e-4
+    max:     +20.0e-4
+    comments: ""
+
+"B->K^*ll::Abs{h_0^0}@CFFMPSV2015" :
+    central: +5.7e-4
+    min:     0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_0^0}@CFFMPSV2015" :
+    central: +3.57
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+"B->K^*ll::Abs{h_0^1}@CFFMPSV2015" :
+    central: +2.3e-4
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_0^1}@CFFMPSV2015" :
+    central: +0.10
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+"B->K^*ll::Abs{h_0^2}@CFFMPSV2015" :
+    central: +2.8e-4
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_0^2}@CFFMPSV2015" :
+    central: 2.*M_PI-0.2
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+
+"B->K^*ll::Abs{h_p^0}@CFFMPSV2015" :
+    central: +7.9e-6
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_p^0}@CFFMPSV2015" :
+    central: +0.10
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+"B->K^*ll::Abs{h_p^1}@CFFMPSV2015" :
+    central: +3.8e-5
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_p^1}@CFFMPSV2015" :
+    central: 2.*M_PI-0.7
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+"B->K^*ll::Abs{h_p^2}@CFFMPSV2015" :
+    central: +1.4e-5
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_p^2}@CFFMPSV2015" :
+    central: +3.50
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+
+"B->K^*ll::Abs{h_m^0}@CFFMPSV2015" :
+    central: +5.4e-5
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_m^0}@CFFMPSV2015" :
+    central: +3.20
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+"B->K^*ll::Abs{h_m^1}@CFFMPSV2015" :
+    central: +5.2e-5
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_m^1}@CFFMPSV2015" :
+    central: +0.00
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+"B->K^*ll::Abs{h_m^2}@CFFMPSV2015" :
+    central: +2.5e-5
+    min:      0.0
+    max:     +20.0e-4
+    comments: ""
+"B->K^*ll::Arg{h_m^2}@CFFMPSV2015" :
+    central: +0.09
+    min:     0.0
+    max:     +2.0*M_PI
+    comments: ""
+
+
+"B->K^*ccbar::Re{alpha_0^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{alpha_0^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{alpha_0^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{alpha_0^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{alpha_0^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+B->K^*ccbar::Im{alpha_0^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_0^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_0^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_0^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_0^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_0^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_0^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+
+"B->K^*ccbar::Re{alpha_1^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{alpha_1^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{alpha_1^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{alpha_1^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{alpha_1^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+B->K^*ccbar::Im{alpha_1^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_1^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_1^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_1^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_1^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_1^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_1^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+
+
+
+"B->K^*ccbar::Re{alpha_2^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{alpha_2^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{alpha_2^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{alpha_2^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{alpha_2^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+B->K^*ccbar::Im{alpha_2^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_2^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_2^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Re{beta_2^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_2^perp}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_2^para}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+"B->K^*ccbar::Im{beta_2^long}@BCvDV2016" :
+    central:  0.0
+    min:      0.0
+    max:      0.0
+    comments: ""
+
+"B->K^*ccbar::s_thr@BCvDV2016" :
+    central:  0.164
+    min:      0.164
+    max:      1.000
+    comments: ""
+
+"B->K^*::s_0@LCSR" :
+    central:  1.7
+    min:      1.7
+    max:      1.7
+    comments: "GeV^2"
+
+"B->K^*::M^2@LCSR" :
+    central:  1.0
+    min:      0.75
+    max:      1.25
+    comments: "GeV^2"
+
+
+"B->K^*ccbar::mu_f" :
+    central:  3.0
+    min:      1.5
+    max:      6.0
+    comments: "GeV"
+
+"B->K^*ccbar::mu_c" :
+    central:  2.54
+    min:      1.27
+    max:      2.54
+    comments: "GeV"

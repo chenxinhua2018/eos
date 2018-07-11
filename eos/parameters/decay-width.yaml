@@ -1,0 +1,12 @@
+# Decay Widths
+"decay-width::J/psi" :
+    central: +92.9e-6
+    min:     +90.1e-6
+    max:     +95.7e-6
+    comments: "GeV"
+ "decay-width::psi(2S)" :
+     central: +296.0e-6
+     min:     +288.0e-6
+     max:     +304.0e-6
+     comments: "GeV"
+                 

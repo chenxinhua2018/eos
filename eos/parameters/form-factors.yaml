@@ -1160,54 +1160,7 @@
     comments: " // GeV @2 Gev, 0.185 +/-0.005 GeV, cf. [BHvD2010], Table I"
 
 
-# Added by Marcin:
-"K^*::a_1_para@1GeV" :
-    central: +0.06
-    min:     +0.00
-    max:     +0.10
-    comments: ""
-"K^*::a_2_para@1GeV" :
-    central: +0.16
-    min:     +0.07
-    max:     +0.23
-    comments: ""
-"K^*::f_para" :
-    central: +0.204
-    min:     +0.197
-    max:     +0.211
-    comments: ""
-"K^*::a_1_perp@1GeV" :
-    central: +0.04
-    min:     +0.01
-    max:     +0.07
-    comments: ""
-"K^*::a_2_perp@1GeV" :
-    central: +0.10
-    min:     +0.02
-    max:     +0.18
-    comments: ""
-"K^*::f_perp" :
-    central: +0.159
-    min:     +0.153
-    max:     +0.165
-    comments: ""
 
-
-
-
-
-
-# parameters for LCSR calculation of B->K^* hadronic matrix elements, cf. [KMO2006] and [KMPW2010].
-"B->K^*::s_0@LCSR" :
-    central: 1.7
-    min:     1.7
-    max:     1.7
-    comments: "GeV^2"
-"B->K^*::M^2@LCSR" :
-    central: 1.0
-    min:     0.75
-    max:     1.25
-    comments: "GeV^2"
 
 # No valid form-factor parameters for B->D* case are available yet, so we leave everything at zero for the moment.
 "B->D^*::alpha^A0_0@BSZ2015" :

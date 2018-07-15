@@ -30,7 +30,7 @@ Parameters
 reference_parameters()
 {
     Parameters result = Parameters::Defaults();
-    result["QCD::alpha_s(MZ)"] = 0.117620;
+    result["QCD::alpha_s(MZ)"] = 0.1184;
     result["QCD::mu_t"] = 170.0;
     result["QCD::mu_b"] = 4.2;
     result["QCD::mu_c"] = 1.2;

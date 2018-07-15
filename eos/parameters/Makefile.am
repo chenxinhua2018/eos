@@ -17,6 +17,7 @@ PARAMETER_FILES = \
 	polarisations.yaml \
 	qcd.yaml \
 	sm.yaml \
+	nonlocal-correlator.yaml \
 	zrsr.yaml
 
 EXTRA_DIST = $(PARAMETER_FILES)

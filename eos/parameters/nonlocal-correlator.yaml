@@ -104,7 +104,7 @@
 "B->K^*ll::Arg{h_0^0}@CFFMPSV2015" :
     central: +3.57
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 "B->K^*ll::Abs{h_0^1}@CFFMPSV2015" :
     central: +2.3e-4
@@ -114,7 +114,7 @@
 "B->K^*ll::Arg{h_0^1}@CFFMPSV2015" :
     central: +0.10
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 "B->K^*ll::Abs{h_0^2}@CFFMPSV2015" :
     central: +2.8e-4
@@ -122,9 +122,9 @@
     max:     +20.0e-4
     comments: ""
 "B->K^*ll::Arg{h_0^2}@CFFMPSV2015" :
-    central: 2.*M_PI-0.2
+    central: +6.08318530718
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 
 "B->K^*ll::Abs{h_p^0}@CFFMPSV2015" :
@@ -135,7 +135,7 @@
 "B->K^*ll::Arg{h_p^0}@CFFMPSV2015" :
     central: +0.10
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 "B->K^*ll::Abs{h_p^1}@CFFMPSV2015" :
     central: +3.8e-5
@@ -143,9 +143,9 @@
     max:     +20.0e-4
     comments: ""
 "B->K^*ll::Arg{h_p^1}@CFFMPSV2015" :
-    central: 2.*M_PI-0.7
+    central: +5.58318530718
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 "B->K^*ll::Abs{h_p^2}@CFFMPSV2015" :
     central: +1.4e-5
@@ -155,7 +155,7 @@
 "B->K^*ll::Arg{h_p^2}@CFFMPSV2015" :
     central: +3.50
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 
 "B->K^*ll::Abs{h_m^0}@CFFMPSV2015" :
@@ -166,7 +166,7 @@
 "B->K^*ll::Arg{h_m^0}@CFFMPSV2015" :
     central: +3.20
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 "B->K^*ll::Abs{h_m^1}@CFFMPSV2015" :
     central: +5.2e-5
@@ -176,7 +176,7 @@
 "B->K^*ll::Arg{h_m^1}@CFFMPSV2015" :
     central: +0.00
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 "B->K^*ll::Abs{h_m^2}@CFFMPSV2015" :
     central: +2.5e-5
@@ -186,7 +186,7 @@
 "B->K^*ll::Arg{h_m^2}@CFFMPSV2015" :
     central: +0.09
     min:     0.0
-    max:     +2.0*M_PI
+    max:     +6.28318530718
     comments: ""
 
 
